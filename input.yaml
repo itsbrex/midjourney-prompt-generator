@@ -1,0 +1,67 @@
+# Prompt Blueprint:
+# Design of [style] Ableton logo featuring a [symbol] in [color] on a [background] background. Include [additional_element] as an additional design element.
+
+# Replace the elements with square brackets with your choice from the YAML content below
+
+command: Design of [style] Ableton Live logo featuring a [symbol] in [color] on a [background] background. Include [additional_element] as an additional design element.
+style:
+  - modern
+  - minimalist
+  - vintage
+  - retro
+  # - fun
+  - futuristic
+  - abstract
+  - geometric
+  # - hand-drawn
+  # - typographic
+symbol:
+  # - Ableton Live logo
+  - audio waveform
+  - MIDI controller
+  - piano keyboard
+  - music note
+  - headphones
+  - speaker
+  - equalizer
+  # - vinyl record
+  - sound wave
+color:
+  - amber (#ffb506)
+  - light purple (#d576ff)
+  - cornflower blue (#4a9ffd)
+  - sky blue (#69dfff)
+  - neon green (#00ff7d)
+  - coral (#ff5145)
+  - gray (#878787)
+  - dark gray (#a9a9a9)
+  - blackish (#282728)
+  - white
+  - silver
+  - gold
+  - multicolored
+background:
+  - amber (#ffb506)
+  - light purple (#d576ff)
+  - cornflower blue (#4a9ffd)
+  - sky blue (#69dfff)
+  - neon green (#00ff7d)
+  - coral (#ff5145)
+  - gray (#878787)
+  - dark gray (#a9a9a9)
+  - blackish (#282728)
+  - white
+  - silver
+  - gold
+  - multicolored
+additional_element:
+  - gradient
+  - shadow
+  - border
+  - pattern
+  - texture
+  - geometric shapes
+  - lines
+  - curves
+  - highlights
+  - 3d effects
