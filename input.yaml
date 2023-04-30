@@ -2,13 +2,13 @@
 # Design of [style] Ableton logo featuring a [symbol] in [color] on a [background] background. Include [additional_element] as an additional design element.
 
 # Replace the elements with square brackets with your choice from the YAML content below
-
-command: Design of [style] Ableton Live logo featuring a [symbol] in [color] on a [background] background. Include [additional_element] as an additional design element.
+# input.yaml
+command: Design of [styles] Ableton Live logo featuring a [symbol] in [color] on a [background] background. Include [additional_element] as an additional design element.
 style:
   - modern
-  - minimalist
-  - vintage
-  - retro
+  # - minimalist
+  # - vintage
+  # - retro
   # - fun
   - futuristic
   - abstract
@@ -27,7 +27,7 @@ symbol:
   # - vinyl record
   - sound wave
 color:
-  - amber (#ffb506)
+  # - amber (#ffb506)
   - light purple (#d576ff)
   - cornflower blue (#4a9ffd)
   - sky blue (#69dfff)
@@ -37,31 +37,39 @@ color:
   - dark gray (#a9a9a9)
   - blackish (#282728)
   - white
-  - silver
-  - gold
+  # - silver
+  # - gold
   - multicolored
 background:
-  - amber (#ffb506)
-  - light purple (#d576ff)
-  - cornflower blue (#4a9ffd)
-  - sky blue (#69dfff)
-  - neon green (#00ff7d)
-  - coral (#ff5145)
-  - gray (#878787)
-  - dark gray (#a9a9a9)
-  - blackish (#282728)
-  - white
-  - silver
-  - gold
-  - multicolored
+  # - amber (#ffb506)
+  - light purple (#d576ff) gradient
+  # - cornflower blue (#4a9ffd) gradient
+  - sky blue (#69dfff) gradient
+  - neon green (#00ff7d) gradient
+  - coral (#ff5145) gradient
+  - gray (#878787) gradient
+  - dark gray (#a9a9a9) gradient
+  - blackish (#282728) gradient
+  - black
+  # - white
+  # - silver
+  # - gold
+  # - multicolored
 additional_element:
   - gradient
-  - shadow
-  - border
+  # - shadow
+  # - border
   - pattern
   - texture
   - geometric shapes
-  - lines
+  # - lines
   - curves
-  - highlights
+  # - highlights
   - 3d effects
+  # - transparency
+  - TV scan lines
+  - human face with TV scan lines
+  - glitch effects
+  - halftone
+  - dots
+  - stripes
