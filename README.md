@@ -44,7 +44,7 @@ The generated prompts will be saved in the `output.txt` file with an appended ti
 
 ## Contributing
 
-If you find any bugs or want to suggest new features, please feel free to contribute by submitting an [issue](https://github.com/itsbrex/issues) or a [pull request](https://github.com/ableton-logo-prompt-project/pulls).
+If you find any bugs or want to suggest new features, please feel free to contribute by submitting an [issue](https://github.com/itsbrex/midjourney-prompt-generator/issues) or a [pull request](https://github.com/itsbrex/midjourney-prompt-generator/pulls).
 
 ## Contributors ✨
 Thanks goes to these wonderful people ([emoji key](https://github.com/all-contributors/all-contributors#emoji-key)):
