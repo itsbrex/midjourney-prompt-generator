@@ -1,75 +1,72 @@
 # Prompt Blueprint:
-# Design of [style] Ableton logo featuring a [symbol] in [color] on a [background] background. Include [additional_element] as an additional design element.
+command: Design of [styles] logo featuring a [symbol] in [color] on a [background] background. Include [additional_element] as an additional design element.
 
-# Replace the elements with square brackets with your choice from the YAML content below
-# input.yaml
-command: Design of [styles] Ableton Live logo featuring a [symbol] in [color] on a [background] background. Include [additional_element] as an additional design element.
+# Replace the options under each category with your own to suit your needs.
 style:
-  - modern
-  # - minimalist
-  # - vintage
-  # - retro
-  # - fun
-  - futuristic
   - abstract
+  - fun
+  - futuristic
   - geometric
-  # - hand-drawn
-  # - typographic
+  - hand-drawn
+  - minimalist
+  - modern
+  - retro
+  - typographic
+  - vintage
 symbol:
-  # - Ableton Live logo
   - audio waveform
-  - MIDI controller
-  - piano keyboard
-  - music note
-  - headphones
-  - speaker
   - equalizer
-  # - vinyl record
+  - headphones
+  - MIDI controller
+  - music note
+  - piano keyboard
   - sound wave
+  - speaker
+  - vinyl record
 color:
-  # - amber (#ffb506)
-  - light purple (#d576ff)
-  - cornflower blue (#4a9ffd)
-  - sky blue (#69dfff)
-  - neon green (#00ff7d)
-  - coral (#ff5145)
-  - gray (#878787)
-  - dark gray (#a9a9a9)
-  - blackish (#282728)
-  - white
-  # - silver
-  # - gold
-  - multicolored
-background:
-  # - amber (#ffb506)
-  - light purple (#d576ff) gradient
-  # - cornflower blue (#4a9ffd) gradient
-  - sky blue (#69dfff) gradient
-  - neon green (#00ff7d) gradient
-  - coral (#ff5145) gradient
-  - gray (#878787) gradient
-  - dark gray (#a9a9a9) gradient
-  - blackish (#282728) gradient
+  - blue
   - black
-  # - white
-  # - silver
-  # - gold
-  # - multicolored
+  - red
+  - light blue
+  - dark gray
+  - gold
+  - gray
+  - purple
+  - multicolored
+  - green
+  - silver
+  - sky blue
+  - white
+background:
+  - blue
+  - black
+  - blackish gradient
+  - red gradient
+  - light blue gradient
+  - dark gray gradient
+  - gold
+  - gray gradient
+  - purple gradient
+  - multicolored
+  - green gradient
+  - silver
+  - sky blue gradient
+  - white
 additional_element:
-  - gradient
-  # - shadow
-  # - border
-  - pattern
-  - texture
-  - geometric shapes
-  # - lines
-  - curves
-  # - highlights
   - 3d effects
-  # - transparency
-  - TV scan lines
-  - human face with TV scan lines
-  - glitch effects
-  - halftone
+  - border
+  - curves
   - dots
+  - geometric shapes
+  - glitch effects
+  - gradient
+  - halftone
+  - highlights
+  - human face with TV scan lines
+  - lines
+  - pattern
+  - shadow
   - stripes
+  - texture
+  - transparency
+  - TV scan lines
